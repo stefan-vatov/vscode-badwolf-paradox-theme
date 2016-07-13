@@ -1,23 +1,23 @@
 {
-    "name": "theme-badwolf-paradox",
-    "displayName": "Badwolf Paradox Theme",
-    "description": "Inspired by the Badwolf theme, ported to vscode with some modifications.",
-    "version": "1.1.0",
-    "publisher": "thracian",
-    "engines": {
-        "vscode": "^1.0.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "icon": "icon.png",
-    "contributes": {
-        "themes": [
-            {
-                "label": "Badwolf Paradox",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Badwolf.tmTheme"
-            }
-        ]
-    }
+  "name": "theme-badwolf-paradox",
+  "displayName": "Badwolf Paradox Theme",
+  "description": "Inspired by the Badwolf theme, ported to vscode with some modifications.",
+  "version": "1.1.1",
+  "publisher": "thracian",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Badwolf Paradox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Badwolf.tmTheme"
+      }
+    ]
+  }
 }
