@@ -1,6 +1,6 @@
 # Badwolf Paradox Theme
 
-A port and mod to of [Badwolf](https://github.com/sjl/badwolf) for [Visual Studio Code](https://code.visualstudio.com/).
+A port and mod to of [Badwolf](https://github.com/sjl/badwolf) for [Visual Studio Code](https://code.visualstudio.com/) that can be installed from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=thracian.theme-badwolf-paradox).
 
 ## Examples
 ### JavaScript
