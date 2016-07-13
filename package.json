@@ -3,7 +3,7 @@
     "displayName": "Badwolf Paradox Theme",
     "description": "Inspired by the Badwolf theme, ported to vscode with some modifications.",
     "version": "0.0.1",
-    "publisher": "stefanv",
+    "publisher": "thracian",
     "engines": {
         "vscode": "^1.0.0"
     },
